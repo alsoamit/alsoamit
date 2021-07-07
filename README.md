@@ -1,4 +1,4 @@
-## Hi 👋, I'm Amit Kumar!
+# Hi 👋, I'm Amit Kumar!
 
 A Web Developer proficient in Javascript, React, Next and Django.
 
