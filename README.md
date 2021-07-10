@@ -10,6 +10,7 @@ A student improving DSA in languages like Python and C.
 ### Social Links
 <a href="https://www.linkedin.com/in/alsoamit/" ><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="twitter logo" height="50" width="80" /></a>
 <a href="https://twitter.com/me2711amit/" ><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="twitter logo" height="50" width="80" /></a>
+<a href="https://dribbble.com/alsoamit"><img src="https://cdn.dribbble.com/assets/dribbble-ball-icon-4e54c54abecf8efe027abe6f8bc7794553b8abef3bdb49cd15797067cf80ca53.svg" alt="dribbble logo" height="50" width="50"/></a>
 ---
 
 ### Languages and Tools
