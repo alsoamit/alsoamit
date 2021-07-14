@@ -28,8 +28,9 @@ A student improving DSA in languages like Python and C.
 ---
 ### Latest Blogs
 
-1. <a href="https://blog.stackinverse.com/custom-svg-icon-library-using-react-components">Custom SVG Icon Library using React Components</a>
-2. <a href="https://blog.stackinverse.com/5-precious-tips-for-demotivated-self-learners">5 Precious Tips for demotivated Self Learners</a>
+1. <a href="https://blog.stackinverse.com/how-to-make-awesome-looking-websites-explained-for-everyone">How to make awesome-looking websites- explained for non-designers.</a>
+2. <a href="https://blog.stackinverse.com/custom-svg-icon-library-using-react-components">Custom SVG Icon Library using React Components</a>
+3. <a href="https://blog.stackinverse.com/5-precious-tips-for-demotivated-self-learners">5 Precious Tips for demotivated Self Learners</a>
 <!--
 **alsoamit/alsoamit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
