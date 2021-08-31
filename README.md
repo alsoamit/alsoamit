@@ -4,6 +4,8 @@ A Web Developer proficient in Javascript, React, Node, Next, Django, etc.
 
 A Web Designer proficient in Figma.
 
+A freelancer
+
 A student improving DSA in languages like Python and C.
 
 ---
@@ -31,17 +33,6 @@ A student improving DSA in languages like Python and C.
 1. <a href="https://blog.stackinverse.com/how-to-make-awesome-looking-websites-explained-for-everyone">How to make awesome-looking websites- explained for non-designers.</a>
 2. <a href="https://blog.stackinverse.com/custom-svg-icon-library-using-react-components">Custom SVG Icon Library using React Components</a>
 3. <a href="https://blog.stackinverse.com/5-precious-tips-for-demotivated-self-learners">5 Precious Tips for demotivated Self Learners</a>
-<!--
-**alsoamit/alsoamit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Note 
+30 of my projects are still private. Trying to make them public very soon. Stay in touch for collaboration. 
