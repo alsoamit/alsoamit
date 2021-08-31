@@ -36,3 +36,5 @@ A student improving DSA in languages like Python and C.
 
 ### Note 
 30 of my projects are still private. Trying to make them public very soon. Stay in touch for collaboration. 
+
+*Thanks for your time and consideration*
