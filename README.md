@@ -1,12 +1,10 @@
 # Hi 👋, I'm Amit Kumar!
 
-A Web Developer proficient in Javascript, React, Node, Next, Django, etc.
+A Web Developer proficient in Javascript, React, Node, Next, Mongo DB, etc.
 
 A Web Designer proficient in Figma.
 
-A freelancer
-
-A student improving DSA in languages like Python and C.
+A freelancer.
 
 ---
 ### Social Links
