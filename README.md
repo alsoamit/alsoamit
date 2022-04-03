@@ -1,6 +1,8 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> , I'm Amit
+<p>
 I am a Web Developer and Designer as well. I enjoy developing and designing awesome websites. Moreover, I'm a student exploring the whole world of Programming. 
----
+</p>
+
 ## About Me
 1. Web Developer 
 2. Web Designer
