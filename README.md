@@ -9,6 +9,7 @@ I am a Web Developer and Designer as well. I enjoy developing and designing awes
 3. Freelancer
 4. Tech Blogger
 5. Wikipedia Editor 
+6. Active on Stackoverflow
 
 ## Languages and Tools
 
