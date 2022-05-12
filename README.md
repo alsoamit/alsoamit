@@ -1,6 +1,6 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> , I'm Amit
 <p>
-I am a Web Developer and Designer as well. I enjoy developing and designing awesome websites. Moreover, I'm a student exploring the whole world of Programming. 
+Hii, I am a 19 y/o Full Stack Web Developer and Web Designer from India. Moreover, I'm a student exploring the whole world of Programming. 
 </p>
 
 ## About Me
@@ -12,7 +12,6 @@ I am a Web Developer and Designer as well. I enjoy developing and designing awes
 6. Active on Stackoverflow
 
 ## Languages and Tools
-
 
 <p align="left"> 
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
