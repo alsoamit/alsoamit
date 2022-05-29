@@ -11,23 +11,36 @@ Hii, I am a 19 y/o Full Stack Web Developer and Web Designer from India. Moreove
 5. Wikipedia Editor 
 6. Active on Stackoverflow
 
-## Languages and Tools
+<h1>Weapons</h1>
 
-<p align="left"> 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma logo" height="50" width="60" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="firebase logo" height="50" width="60" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="firebase logo" height="50" width="60" />
+## Programming languages
+
+<p> 
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white&style=for-the-badge"></a> 
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=for-the-badge"></a>
 </p>
+
+### Frameworks and libraries
+
+<p>  
+  <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+  <a href="#"><img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+  <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=white"></a>
+  <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></a>
+  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+</p>
+
+### Databases and cloud hosting
+
+<p>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge"></a>
+</p>
+
 
 ## My Github Stats
 
@@ -50,16 +63,16 @@ Hii, I am a 19 y/o Full Stack Web Developer and Web Designer from India. Moreove
 
 ## Latest Articles
 
-1. <a href="https://blog.stackinverse.com/how-to-make-awesome-looking-websites-explained-for-everyone">How to make awesome-looking websites- explained for non-designers.</a>
-2. <a href="https://blog.stackinverse.com/custom-svg-icon-library-using-react-components">Custom SVG Icon Library using React Components</a>
-3. <a href="https://blog.stackinverse.com/5-precious-tips-for-demotivated-self-learners">5 Precious Tips for demotivated Self Learners</a> 
+1. <a href="https://blog.alsoamit.com/how-to-make-awesome-looking-websites-explained-for-everyone">How to make visually appealing websites.</a>
+2. <a href="https://blog.alsoamit.com/custom-svg-icon-library-using-react-components">Custom SVG Icon Library using React Components</a>
+3. <a href="https://blog.alsoamit.com/5-precious-tips-for-demotivated-self-learners">5 Precious Tips for demotivated Self Learners</a> 
 
-## Connect with me
-<a href = "https://www.linkedin.com/in/alsoamit/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/_alsoamit_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="https://dribbble.com/alsoamit"><img src="https://cdn.dribbble.com/assets/dribbble-ball-icon-4e54c54abecf8efe027abe6f8bc7794553b8abef3bdb49cd15797067cf80ca53.svg" alt="dribbble logo" height="50" width="50"/></a>
+## Social
 
-Email: *alsoamit@gmail.com*
+   <a href="mailto:alsoamit@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/alsoamit/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://twitter.com/_alsoamit_"><img alt="twitter" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+   <a href="https://alsoamit.com/"> <img alt="website" src ="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fwww.alsoamit.com%2F"> </a>
 
 *Thanks for the visit!*
 
