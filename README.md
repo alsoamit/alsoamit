@@ -48,6 +48,9 @@ Hii, I am a 19 y/o Full Stack Web Developer and Web Designer from India. Moreove
 <p> 
     <a href="#"><img alt="linux" src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
     <a href="#"><img alt="git" src ="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="#"><img alt="figma" src ="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
+    <a href="#"><img alt="bash" src ="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
+    <a href="#"><img alt="swagger" src ="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"></a>
 </p>
 
 ## My Github Stats
@@ -82,7 +85,7 @@ Hii, I am a 19 y/o Full Stack Web Developer and Web Designer from India. Moreove
    <a href="https://www.linkedin.com/in/alsoamit/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://twitter.com/_alsoamit_"><img alt="twitter" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
    <a href="https://dribbble.com/alsoamit/"> <img alt="dribbble" src ="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"> </a>
-    <a href="https://stackoverflow.com/users/14785394/amit"><img alt="linux" src ="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+    <a href="https://stackoverflow.com/users/14785394/amit"><img alt="stackoverflow" src ="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
    
 *Thanks for the visit!*
 
