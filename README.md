@@ -11,9 +11,9 @@ Hii, I am a 19 y/o Full Stack Web Developer and Web Designer from India. Moreove
 5. Wikipedia Editor 
 6. Active on Stackoverflow
 
-<h1>Weapons</h1>
+## Weapons
 
-## Programming languages
+**Programming languages**
 
 <p> 
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"></a>
@@ -22,7 +22,7 @@ Hii, I am a 19 y/o Full Stack Web Developer and Web Designer from India. Moreove
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=for-the-badge"></a>
 </p>
 
-### Frameworks and libraries
+**Frameworks and libraries**
 
 <p>  
   <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
@@ -33,14 +33,22 @@ Hii, I am a 19 y/o Full Stack Web Developer and Web Designer from India. Moreove
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 </p>
 
-### Databases and cloud hosting
+**Databases and cloud hosting**
 
 <p>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=for-the-badge"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="Linode" src ="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white"></a>
+    <a href="#"><img alt="redis" src ="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></a>
+    <a href="#"><img alt="docker" src ="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
 </p>
 
+**Tools**
+<p> 
+    <a href="#"><img alt="linux" src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="git" src ="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+</p>
 
 ## My Github Stats
 
@@ -69,10 +77,12 @@ Hii, I am a 19 y/o Full Stack Web Developer and Web Designer from India. Moreove
 
 ## Social
 
+   <a href="https://alsoamit.com/"><img alt="website" src ="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
    <a href="mailto:alsoamit@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/alsoamit/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://twitter.com/_alsoamit_"><img alt="twitter" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-   <a href="https://alsoamit.com/"> <img alt="website" src ="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fwww.alsoamit.com%2F"> </a>
-
+   <a href="https://dribbble.com/alsoamit/"> <img alt="dribbble" src ="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"> </a>
+    <a href="https://stackoverflow.com/users/14785394/amit"><img alt="linux" src ="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+   
 *Thanks for the visit!*
 
