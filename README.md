@@ -80,7 +80,7 @@ Hii, I am a 19 y/o Full Stack Web Developer and Web Designer from India. Moreove
 
 ## Latest Articles
 
-1. <a href="https://blog.alsoamit.com/how-to-make-awesome-looking-websites-explained-for-everyone">How to make visually appealing websites.</a>
+1. <a href="https://blog.alsoamit.com/how-to-make-visually-appealing-websites-6-easy-steps">How to make visually appealing websites - 6 easy steps. </a>
 2. <a href="https://blog.alsoamit.com/custom-svg-icon-library-using-react-components">Custom SVG Icon Library using React Components</a>
 3. <a href="https://blog.alsoamit.com/5-precious-tips-for-demotivated-self-learners">5 Precious Tips for demotivated Self Learners</a> 
 
