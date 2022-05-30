@@ -3,6 +3,12 @@
 Hii, I am a 19 y/o Full Stack Web Developer and Web Designer from India. Moreover, I'm a student exploring the whole world of Programming. 
 </p>
 
+<p>
+   <a href="https://www.linkedin.com/in/alsoamit/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://twitter.com/_alsoamit_"><img alt="twitter" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+
+</p>
+
 ## About Me
 1. Web Developer 
 2. Web Designer
