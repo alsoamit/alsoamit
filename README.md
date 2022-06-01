@@ -1,4 +1,4 @@
-# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> , I'm Amit
+# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"> , I'm Amit
 <p>
 Hii, I am a 19 y/o Full Stack Web Developer and Web Designer from India. Moreover, I'm a student exploring the whole world of Programming. 
 </p>
