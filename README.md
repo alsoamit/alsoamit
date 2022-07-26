@@ -78,6 +78,10 @@ Hii, I am a 19 y/o Full Stack Web Developer and Web Designer from India. Moreove
 
 <br/>
 
+## Achievements
+
+Won Hashnode-Linode Hackathon in July 2022 by building [MeTrack](https://www.metrack.tech/). 
+
 ## Latest Articles
 
 1. <a href="https://blog.alsoamit.com/how-to-make-visually-appealing-websites-6-easy-steps">How to make visually appealing websites - 6 easy steps. </a>
