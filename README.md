@@ -20,41 +20,41 @@ Freelance Web Developer || Hackathon Winner @hashnode || Nextjs, AWS, MERN, Type
 **Programming languages**
 
 <p> 
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"></a>
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white&style=for-the-badge"></a> 
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white&style=for-the-badge"></a>
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 </p>
 
-**Frameworks and libraries**
+**Frameworks and Libraries**
 
 <p>  
   <a href="#"><img alt="Nextjs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-  <a href="#"><img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
+  <a href="#"><img alt="tailwind" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></a> 
+  <a href="#"><img alt="Graphql" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a> 
   <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=white"></a>
+  <a href="#"><img alt="Three Js" src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white"></a>  
   <a href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"></a>
-  <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 </p>
 
-**Databases and cloud hosting**
+**Databases and Cloud**
 
 <p>
-    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=for-the-badge"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white&style=for-the-badge"></a>
-    <a href="#"><img alt="Linode" src ="https://img.shields.io/badge/Linode-00A95C?style=for-the-badge&logo=Linode&logoColor=white"></a>
     <a href="#"><img alt="redis" src ="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"></a>
-    <a href="#"><img alt="docker" src ="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
 </p>
 
 **Tools**
 <p> 
     <a href="#"><img alt="linux" src ="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="docker" src ="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
     <a href="#"><img alt="git" src ="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="#"><img alt="figma" src ="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-    <a href="#"><img alt="bash" src ="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-    <a href="#"><img alt="swagger" src ="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white"></a>
+    <a href="#"><img alt="Blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"></a>
 </p>
 
 ## My Github Stats
@@ -78,13 +78,14 @@ Freelance Web Developer || Hackathon Winner @hashnode || Nextjs, AWS, MERN, Type
 
 ## Achievements
 
-Won Hashnode-Linode Hackathon in July 2022 by building [MeTrack](https://www.metrack.tech/). 
+1. Won Hashnode-Linode Hackathon in July 2022 by building [MeTrack](https://www.metrack.tech/). 
+2. 25K+ reach on Stackoverflow. 50+ Answers. 800+ reputation. 
 
 ## Latest Articles
-
-1. <a href="https://blog.alsoamit.com/how-to-make-visually-appealing-websites-6-easy-steps">How to make visually appealing websites - 6 easy steps. </a>
-2. <a href="https://blog.alsoamit.com/custom-svg-icon-library-using-react-components">Custom SVG Icon Library using React Components</a>
-3. <a href="https://blog.alsoamit.com/5-precious-tips-for-demotivated-self-learners">5 Precious Tips for demotivated Self Learners</a> 
+1. <a href="https://blog.alsoamit.com/frontend-backend-fullstack">Frontend + Backend != Fullstack</a>
+2. <a href="https://blog.alsoamit.com/how-to-make-visually-appealing-websites-6-easy-steps">How to make visually appealing websites - 6 easy steps. </a>
+3. <a href="https://blog.alsoamit.com/custom-svg-icon-library-using-react-components">Custom SVG Icon Library using React Components</a>
+4. <a href="https://blog.alsoamit.com/5-precious-tips-for-demotivated-self-learners">5 Precious Tips for demotivated Self Learners</a> 
 
 ## Social
 
