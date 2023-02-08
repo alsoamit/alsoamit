@@ -60,9 +60,7 @@ Freelance Web Developer || Hackathon Winner @hashnode || Nextjs, AWS, MERN, Type
 ## My Github Stats
 
 <p align="center">
-    <a href="https://github.com/alsoamit/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amit Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alsoamit&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amit Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alsoamit&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
 </p>
 
 <!--   <br/>
@@ -72,7 +70,7 @@ Freelance Web Developer || Hackathon Winner @hashnode || Nextjs, AWS, MERN, Type
  -->
 <br/>
 
-[![Amit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alsoamit&bg_color=070b0e&color=a89999&line=c856b9&point=d1d1d1&area=true&hide_border=true)](https://github.com/alsoamit/github-readme-activity-graph)
+![Amit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alsoamit&bg_color=070b0e&color=a89999&line=c856b9&point=d1d1d1&area=true&hide_border=true)
 
 <br/>
 
