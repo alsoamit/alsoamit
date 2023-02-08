@@ -1,6 +1,6 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"> , I'm Amit
 <p>
-Hii, I am a 19 y/o Full Stack Web Developer and Web Designer from India. Moreover, I'm a student exploring the whole world of Programming. 
+Freelance Web Developer || Hackathon Winner @hashnode || Nextjs, AWS, MERN, Typescript || I tell stories around Web and AWS
 </p>
 
 <p>
@@ -11,11 +11,9 @@ Hii, I am a 19 y/o Full Stack Web Developer and Web Designer from India. Moreove
 
 ## About Me
 1. Web Developer 
-2. Web Designer
-3. Freelancer
-4. Tech Blogger
-5. Wikipedia Editor 
-6. Active on Stackoverflow
+2. Freelancer
+4. 40+ Answers, ~25K reach on Stackoverflow
+5. Publishing on Linkedin
 
 ## Weapons
 
@@ -74,7 +72,7 @@ Hii, I am a 19 y/o Full Stack Web Developer and Web Designer from India. Moreove
  -->
 <br/>
 
-<a href="https://github.com/alsoamit/github-readme-activity-graph"><img alt="Amit Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alsoamit&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+[![Amit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alsoamit&bg_color=070b0e&color=a89999&line=c856b9&point=d1d1d1&area=true&hide_border=true)](https://github.com/alsoamit/github-readme-activity-graph)
 
 <br/>
 
