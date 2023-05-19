@@ -12,7 +12,7 @@ Freelance Web Developer || Hackathon Winner @hashnode || Nextjs, AWS, MERN, Type
 ## About Me
 1. Web Developer 
 2. Freelancer
-4. 40+ Answers, ~25K reach on Stackoverflow
+4. 45 Answers, 40K+ reach on Stackoverflow
 5. Publishing on Linkedin
 
 [![wakatime](https://wakatime.com/badge/user/459614f4-5381-4ae7-a623-d3898b5d7518.svg)](https://wakatime.com/@459614f4-5381-4ae7-a623-d3898b5d7518)
