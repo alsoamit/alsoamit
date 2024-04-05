@@ -1,18 +1,17 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px"> , I'm Amit
 <p>
-Freelance Web Developer || Hackathon Winner @hashnode || Nextjs, AWS, MERN, Typescript || I tell stories around Web and AWS
+Freelance Fullstack Dev || Hackathon Winner @hashnode || Nextjs, AWS, MERN, Typescript || I tell stories around Web and AWS
 </p>
 
 <p>
    <a href="https://www.linkedin.com/in/alsoamit/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://twitter.com/_alsoamit_"><img alt="twitter" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-
+   <a href="https://twitter.com/_vatsamit_"><img alt="twitter" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 </p>
 
 ## About Me
-1. Web Developer 
+1. Fullstack Dev
 2. Freelancer
-4. 45 Answers, 65K+ reach on Stackoverflow
+4. -50 Answers, 100K+ reach on Stackoverflow
 5. Publishing on Linkedin
 
 [![wakatime](https://wakatime.com/badge/user/459614f4-5381-4ae7-a623-d3898b5d7518.svg)](https://wakatime.com/@459614f4-5381-4ae7-a623-d3898b5d7518)
@@ -72,27 +71,20 @@ Freelance Web Developer || Hackathon Winner @hashnode || Nextjs, AWS, MERN, Type
  -->
 <br/>
 
-![Amit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alsoamit&bg_color=070b0e&color=a89999&line=c856b9&point=d1d1d1&area=true&hide_border=true)
+[![Amit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alsoamit&bg_color=000000&color=c2c2c2&line=53d0a0&point=0f7b69&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
 ## Achievements
 
 1. Won Hashnode-Linode Hackathon in July 2022 by building [MeTrack](https://www.metrack.tech/). 
-2. 25K+ reach on Stackoverflow. 50+ Answers. 800+ reputation. 
-
-## Latest Articles
-1. <a href="https://blog.alsoamit.com/frontend-backend-fullstack">Frontend + Backend != Fullstack</a>
-2. <a href="https://blog.alsoamit.com/how-to-make-visually-appealing-websites-6-easy-steps">How to make visually appealing websites - 6 easy steps. </a>
-3. <a href="https://blog.alsoamit.com/custom-svg-icon-library-using-react-components">Custom SVG Icon Library using React Components</a>
-4. <a href="https://blog.alsoamit.com/5-precious-tips-for-demotivated-self-learners">5 Precious Tips for demotivated Self Learners</a> 
+2. 100K+ reach on Stackoverflow. ~50 Answers. 1000+ reputation. 
 
 ## Social
-
    <a href="https://alsoamit.com/"><img alt="website" src ="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
    <a href="mailto:alsoamit@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
    <a href="https://www.linkedin.com/in/alsoamit/"><img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://twitter.com/_alsoamit_"><img alt="twitter" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+   <a href="https://twitter.com/_vatsamit_"><img alt="twitter" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
    <a href="https://dribbble.com/alsoamit/"> <img alt="dribbble" src ="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"> </a>
     <a href="https://stackoverflow.com/users/14785394/amit"><img alt="stackoverflow" src ="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
    
