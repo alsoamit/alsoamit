@@ -71,7 +71,7 @@ Freelance Fullstack Dev || Hackathon Winner @hashnode || Nextjs, AWS, MERN, Type
  -->
 <br/>
 
-[![Amit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alsoamit&bg_color=000000&color=c2c2c2&line=53d0a0&point=0f7b69&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Amit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alsoamit&bg_color=000000&color=c2c2c2&line=53d0a0&point=0f7b69&area=true&hide_border=true)
 
 <br/>
 
