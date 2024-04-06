@@ -11,7 +11,7 @@ Freelance Fullstack Dev || Hackathon Winner @hashnode || Nextjs, AWS, MERN, Type
 ## About Me
 1. Fullstack Dev
 2. Freelancer
-4. -50 Answers, 100K+ reach on Stackoverflow
+4. 48 Answers, 100K+ reach on Stackoverflow
 5. Publishing on Linkedin
 
 [![wakatime](https://wakatime.com/badge/user/459614f4-5381-4ae7-a623-d3898b5d7518.svg)](https://wakatime.com/@459614f4-5381-4ae7-a623-d3898b5d7518)
